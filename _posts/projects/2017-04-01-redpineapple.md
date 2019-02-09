@@ -7,26 +7,26 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "Laundry Pos"
+  type: "Android"
+  url: "https://play.google.com/store/apps/details?id=id.londree.app"
+  logo: "/assets/images/projects/laundry/logo.png"
+  tech: "Android, Kotlin, Java"
 
 agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  title: "Indonesia IT"
+  url: "http://indonesiait.com"
+  year: "2018"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/laundry/devices.jpg"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/laundry/desktop.jpg"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/laundry/mobile.jpg"
     alt: "Red Pineapple website on a mobile device"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>I build several features that allows laundry owner to easily print receipt, send feedback through WhatsApp, show guidance, etc.</p>
