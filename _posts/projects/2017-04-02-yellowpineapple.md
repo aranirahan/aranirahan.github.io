@@ -7,26 +7,26 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "Zenwell"
+  type: "Android"
+  url: "https://play.google.com/store/apps/details?id=com.olsera.pos"
+  logo: "/assets/images/projects/zenwell/logo.png"
+  tech: "Android, Kotlin, Java"
 
 agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+  title: "Olsera"
+  url: "https://www.olsera.com/"
+  year: "2018, 2019"
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
+    url: "/assets/images/projects/zenwell/devices.jpg"
     alt: "Yellow Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/yellowpineapple/desktop.jpg"
+    url: "/assets/images/projects/zenwell/desktop.jpg"
     alt: "Yellow Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
+    url: "/assets/images/projects/zenwell/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m (3.3 to 4.9 ft) tall, although sometimes it can be taller. The plant takes almost three years to reach maturation. It can fruit a total of three times during its lifetime.</p>
+<p>Zenwell is zen industry management</p>
